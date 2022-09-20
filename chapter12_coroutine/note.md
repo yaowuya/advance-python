@@ -1,5 +1,7 @@
 # 协程和异步
 
+[深入理解Python 中的 yield from语法](https://zhuanlan.zhihu.com/p/267966140)
+
 ##### 并发并行
 ![并行-并发](./assets/并行-并发.png)
 ##### 同步异步
